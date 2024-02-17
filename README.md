@@ -4,5 +4,5 @@
 - 🌱 I’m currently learning Android Devlopment with Kotlin
 - 👯 I’m looking to collaborate on with those working on Android Development
 - 📫 How to reach me:
-  - Gmail - devpateljp11@gmail.com
+  - Email - devpateljp11@gmail.com
   - LinkedIn - https://www.linkedin.com/in/dev-patel-56b895257
