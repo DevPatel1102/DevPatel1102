@@ -6,3 +6,7 @@
 - 📫 How to reach me:
   - Email - devpateljp11@gmail.com
   - LinkedIn - https://www.linkedin.com/in/dev-patel-56b895257
+
+
+## 🛠 Languages & Tool
+
