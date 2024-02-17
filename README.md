@@ -17,5 +17,5 @@
 <span><img src="kotlin.png" width='50px' heigth='25px'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
 <span><img src="firebase.png" width='50px' heigth='25px'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
 <span><img src="jetpack.png" width='50px' heigth='25px'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-
+<span><img src="mysql.png" width='50px' heigth='25px'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
 
