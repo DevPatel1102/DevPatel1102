@@ -10,6 +10,7 @@
 
 ## 🛠 Languages & Tool
 
-![Screenshot_2024-02-17_111444-removebg-preview](https://github.com/DevPatel1102/DevPatel1102/assets/109888973/47da8d1f-6e59-488d-8ed4-03d7fdefef71)
+![Screenshot_2024-02-17_111444-removebg-preview (1)](https://github.com/DevPatel1102/DevPatel1102/assets/109888973/bb453653-53c1-4d6c-88f2-64b5bf7601e2)
+
 
 
