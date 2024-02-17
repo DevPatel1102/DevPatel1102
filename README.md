@@ -11,11 +11,11 @@
 
 ## 🛠 Languages & Tool
 
-<span><img src="android-studio.png" width='40px' heigth='20px'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-<span><img src="xml.png" width='40px' heigth='20px'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-<span><img src="java.png" width='40px' heigth='20px'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-<span><img src="kotlin.png" width='40px' heigth='20px'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-<span><img src="firebase.png" width='40px' heigth='20px'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-<span><img src="jetpack.png" width='40px' heigth='20px'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<span><img src="android-studio.png" width='50px' heigth='25px'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<span><img src="xml.png" width='50px' heigth='25px'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<span><img src="java.png" width='50px' heigth='25px'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<span><img src="kotlin.png" width='50px' heigth='25px'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<span><img src="firebase.png" width='50px' heigth='25px'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<span><img src="jetpack.png" width='50px' heigth='25px'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
 
 
