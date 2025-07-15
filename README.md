@@ -20,11 +20,11 @@ I'm **Dev Patel**, a passionate Mobile & Android Developer focused on building s
 
 | Category           | Skills / Tools                                                                                      |
 |--------------------|----------------------------------------------------------------------------------------------------|
-| **Languages**      | <img src="java.png" width="40" alt="Java"/> <img src="kotlin.png" width="40" alt="Kotlin"/> <img src="xml.png" width="40" alt="XML"/> <img src="flutter.jpg" width="40" alt="Flutter"/> |
-| **Frameworks**     | <img src="flutter.jpg" width="40" alt="Flutter"/> <img src="jetpack.png" width="40" alt="Jetpack"/> |
+| **Languages**      | <img src="java.png" width="40" alt="Java"/> &nbsp;&nbsp; <img src="kotlin.png" width="40" alt="Kotlin"/> &nbsp;&nbsp; <img src="xml.png" width="40" alt="XML"/> &nbsp;&nbsp; <img src="flutter.jpg" width="40" alt="Flutter"/> |
+| **Frameworks**     | <img src="flutter.jpg" width="40" alt="Flutter"/> &nbsp;&nbsp; <img src="jetpack.png" width="40" alt="Jetpack"/> |
 | **IDEs & Tools**   | <img src="android-studio.png" width="40" alt="Android Studio"/>                                    |
-| **Databases**      | <img src="mysql.png" width="40" alt="MySQL"/> <img src="firebase.png" width="40" alt="Firebase"/>  |
-| **Cloud/Backend**  | <img src="firebase.png" width="40" alt="Firebase"/> <img src="aws.png" width="40" alt="AWS"/> |
+| **Databases**      | <img src="mysql.png" width="40" alt="MySQL"/> &nbsp;&nbsp; <img src="firebase.png" width="40" alt="Firebase"/>  |
+| **Cloud/Backend**  | <img src="firebase.png" width="40" alt="Firebase"/> &nbsp;&nbsp; <img src="aws.png" width="40" alt="AWS"/> |
 
 ---
 
