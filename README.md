@@ -1,7 +1,7 @@
 # Hi there 👋
 
-- 🔭 I’m currently working on Kotlin App Development
-- 🌱 I’m currently learning Android Devlopment with Kotlin
+- 🔭 I’m currently working on Flutter App Development
+- 🌱 I’ve learned Android App development using Kotlin
 - 👯 I’m looking to collaborate on with those working on Android Development
 - 📫 How to reach me:
   - Email - devpateljp11@gmail.com
