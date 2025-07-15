@@ -30,10 +30,9 @@ I'm **Dev Patel**, a passionate Mobile & Android Developer focused on building s
 
 ## 💻 Projects
 
-- [**MyPortfolio**](#) — Personal portfolio site (coming soon!)
-- [**Task Manager App**](#) — Flutter app for productivity
-- [**Quiz App**](#) — Android quiz app with Firebase backend
-- [**Weather App**](#) — Simple weather app using Jetpack Compose
+- [**Headlinr**](https://github.com/DevPatel1102/Headlinr) — Flutter News App using GetX Framework
+- [**Weather App**](https://github.com/DevPatel1102/Weather-App) — Modern UI Weather App made using Jetpack Compose
+- [**Quizzaro**](https://github.com/DevPatel1102/Quizzaro-App) — Quiz Application using Kotlin
 <!-- Add your real project links above -->
 
 ---
