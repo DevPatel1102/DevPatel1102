@@ -1,32 +1,75 @@
-# Hi there 👋
+# Hi There! 👋
 
-- 🔭 I’m currently working on Flutter App Development
-- 🌱 I’ve learned Android App development using Kotlin
-- 👯 I’m looking to collaborate on with those working on Android Development
-- 📫 How to reach me:
-  - Email - devpateljp11@gmail.com
-  - LinkedIn - https://www.linkedin.com/in/dev-patel-56b895257
+I'm **Dev Patel**, a passionate Mobile & Android Developer focused on building smooth, beautiful experiences with Flutter and Kotlin.
 
-***
+---
 
-## 🛠 Languages & Tool
+## 🚀 About Me
 
-<span><img src="android-studio.png" width='50px' heigth='25px'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-<span><img src="xml.png" width='50px' heigth='25px'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-<span><img src="java.png" width='50px' heigth='25px'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-<span><img src="kotlin.png" width='50px' heigth='25px'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-<span><img src="firebase.png" width='50px' heigth='25px'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-<span><img src="jetpack.png" width='50px' heigth='25px'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-<span><img src="mysql.png" width='50px' heigth='25px'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+- 🔭 **Currently working on:** Flutter App Development  
+- 🤖 **Previously built:** Android Apps with Kotlin  
+- 👯 **Open to collaborate:** Android & Flutter projects  
+- 🌱 **Learning:** Advanced UI/UX, Firebase, and cross-platform best practices  
+- 📫 **Reach me at:**  
+  [![Email](https://img.shields.io/badge/Email-devpateljp11@gmail.com-red?style=flat-square&logo=gmail)](mailto:devpateljp11@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-devpatel-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/dev-patel-56b895257)
 
-***
+---
 
-## Status of GitHub
+## 🛠 Tech Stack
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=DevPatel1102&show_icons=true&locale=en&layout=compact" alt="DevPatel1102" /></p>
+**Languages**
+<p>
+  <img src="java.png" alt="Java" width="40"/>
+  <img src="kotlin.png" alt="Kotlin" width="40"/>
+  <img src="xml.png" alt="XML" width="40"/>
+  <img src="dart.png" alt="Dart" width="40"/>
+</p>
 
-<p style="margin-top: 20px"><img align="left" src="https://github-readme-stats.vercel.app/api?username=DevPatel1102&show_icons=true&locale=en" alt="DevPatel1102" /></p><br>
+**Mobile & Frameworks**
+<p>
+  <img src="flutter.png" alt="Flutter" width="40"/>
+  <img src="android-studio.png" alt="Android Studio" width="40"/>
+  <img src="jetpack.png" alt="Jetpack" width="40"/>
+  <img src="firebase.png" alt="Firebase" width="40"/>
+</p>
 
-<br>![](https://github-readme-streak-stats.herokuapp.com/?user=DevPatel1102&theme=merko&hide_border=false)<br/>
+**Database & Cloud**
+<p>
+  <img src="mysql.png" alt="MySQL" width="40"/>
+  <img src="firebase.png" alt="Firebase" width="40"/>
+</p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=DevPatel1102&theme=monokai&row=1&column=7&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)<br>
+---
+
+## 💻 Projects
+
+- [**MyPortfolio**](#) — Personal portfolio site (coming soon!)
+- [**Task Manager App**](#) — Flutter app for productivity
+- [**Quiz App**](#) — Android quiz app with Firebase backend
+- [**Weather App**](#) — Simple weather app using Jetpack Compose
+<!-- Add your real project links above -->
+
+---
+
+## 📊 GitHub Stats
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=DevPatel1102&show_icons=true&theme=tokyonight" alt="DevPatel1102's GitHub stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevPatel1102&layout=compact&theme=tokyonight" alt="Top Languages" width="48%"/>
+</p>
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevPatel1102&theme=tokyonight" alt="GitHub Streak" width="60%"/>
+</p>
+<p>
+  <img src="https://github-profile-trophy.vercel.app/?username=DevPatel1102&theme=monokai&column=7" alt="Trophies" width="100%"/>
+</p>
+
+---
+
+<!-- Optional: Add snake animation for fun -->
+![Snake animation](https://github.com/DevPatel1102/DevPatel1102/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+*Let's build something amazing together!*
