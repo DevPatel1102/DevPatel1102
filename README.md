@@ -42,7 +42,7 @@ I'm **Dev Patel**, a passionate Mobile & Android Developer focused on building s
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=DevPatel1102&show_icons=true&theme=tokyonight" alt="DevPatel1102's GitHub stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevPatel1102&layout=compact&theme=tokyonight" alt="Top Languages" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevPatel1102&layout=compact&theme=tokyonight" alt="Top Languages" width="38%"/>
 </p>
 <p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevPatel1102&theme=tokyonight" alt="GitHub Streak" width="60%"/>
