@@ -18,27 +18,13 @@ I'm **Dev Patel**, a passionate Mobile & Android Developer focused on building s
 
 ## 🛠 Tech Stack
 
-**Languages**
-<p>
-  <img src="java.png" alt="Java" width="40"/>
-  <img src="kotlin.png" alt="Kotlin" width="40"/>
-  <img src="xml.png" alt="XML" width="40"/>
-  <img src="dart.png" alt="Dart" width="40"/>
-</p>
-
-**Mobile & Frameworks**
-<p>
-  <img src="flutter.png" alt="Flutter" width="40"/>
-  <img src="android-studio.png" alt="Android Studio" width="40"/>
-  <img src="jetpack.png" alt="Jetpack" width="40"/>
-  <img src="firebase.png" alt="Firebase" width="40"/>
-</p>
-
-**Database & Cloud**
-<p>
-  <img src="mysql.png" alt="MySQL" width="40"/>
-  <img src="firebase.png" alt="Firebase" width="40"/>
-</p>
+| Category           | Skills / Tools                                                                                      |
+|--------------------|----------------------------------------------------------------------------------------------------|
+| **Languages**      | <img src="java.png" width="32" alt="Java"/> <img src="kotlin.png" width="32" alt="Kotlin"/> <img src="xml.png" width="32" alt="XML"/> <img src="dart.png" width="32" alt="Dart"/> |
+| **Frameworks**     | <img src="flutter.png" width="32" alt="Flutter"/> <img src="jetpack.png" width="32" alt="Jetpack"/> |
+| **IDEs & Tools**   | <img src="android-studio.png" width="32" alt="Android Studio"/>                                    |
+| **Databases**      | <img src="mysql.png" width="32" alt="MySQL"/> <img src="firebase.png" width="32" alt="Firebase"/>  |
+| **Cloud/Backend**  | <img src="firebase.png" width="32" alt="Firebase"/>                                                |
 
 ---
 
