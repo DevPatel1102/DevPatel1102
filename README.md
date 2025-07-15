@@ -20,11 +20,11 @@ I'm **Dev Patel**, a passionate Mobile & Android Developer focused on building s
 
 | Category           | Skills / Tools                                                                                      |
 |--------------------|----------------------------------------------------------------------------------------------------|
-| **Languages**      | <img src="java.png" width="32" alt="Java"/> <img src="kotlin.png" width="32" alt="Kotlin"/> <img src="xml.png" width="32" alt="XML"/> <img src="dart.png" width="32" alt="Dart"/> |
+| **Languages**      | <img src="java.png" width="32" alt="Java"/> <img src="kotlin.png" width="32" alt="Kotlin"/> <img src="xml.png" width="32" alt="XML"/> <img src="flutter.png" width="32" alt="Flutter"/> |
 | **Frameworks**     | <img src="flutter.png" width="32" alt="Flutter"/> <img src="jetpack.png" width="32" alt="Jetpack"/> |
 | **IDEs & Tools**   | <img src="android-studio.png" width="32" alt="Android Studio"/>                                    |
 | **Databases**      | <img src="mysql.png" width="32" alt="MySQL"/> <img src="firebase.png" width="32" alt="Firebase"/>  |
-| **Cloud/Backend**  | <img src="firebase.png" width="32" alt="Firebase"/>                                                |
+| **Cloud/Backend**  | <img src="firebase.png" width="32" alt="Firebase"/> <img src="aws.png" width="32" alt="AWS"/> |
 
 ---
 
