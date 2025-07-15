@@ -53,9 +53,4 @@ I'm **Dev Patel**, a passionate Mobile & Android Developer focused on building s
 
 ---
 
-<!-- Optional: Add snake animation for fun -->
-![Snake animation](https://github.com/DevPatel1102/DevPatel1102/blob/output/github-contribution-grid-snake.svg)
-
----
-
 *Let's build something amazing together!*
