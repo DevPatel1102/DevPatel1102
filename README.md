@@ -1,10 +1,8 @@
-# Hi there, I'm Dev Patel 👋
+# Hey there 👋, I'm Dev Patel
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DevPatel1102&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+### Full Stack & Mobile Developer
 
-<h3 align="center">Full Stack & Mobile Developer | Flutter | Kotlin | MERN Stack | Next.js</h3>
+Building scalable web applications with MERN Stack and modern mobile apps using Flutter & Kotlin.
 
 ---
 
@@ -12,83 +10,81 @@
 
 * 💼 Former Junior Software Engineer at Growexx AI Solutions
 * 📱 Former Flutter Developer Intern at Altum Labs LLP
-* 🌐 Passionate about building scalable Full Stack and Mobile Applications
-* 🤖 Experienced in Flutter, Kotlin, MERN Stack, Next.js, NestJS and AWS
-* ☁️ Exploring Cloud Technologies, System Design and AI-powered Development
-* 🧠 Strong foundation in DSA, OOPs and DBMS
-* 🤝 Open to Software Development, Full Stack and Mobile App opportunities
+* 🎓 B.Tech ICT @ PDEU (CGPA: **9.75**)
+* 🌱 Currently learning Cloud Computing, DevOps and System Design
+* 🤝 Open to Software Development, Full Stack and Mobile Development opportunities
 
 ---
 
-## 🎓 Education
+## 📫 Connect With Me
 
-**Pandit Deendayal Energy University (PDEU)**
-Bachelor of Technology in Information & Communication Technology
-
-📍 Gandhinagar, Gujarat
-🎯 CGPA: **9.75 / 10**
-📅 2022 – 2026
-
----
-
-## 💼 Experience
-
-### Junior Software Engineer | Growexx AI Solutions
-
-📍 Ahmedabad (On-Site)
-📅 Jan 2026 – Jul 2026
-
-* Completed intensive training in MERN Stack technologies including JavaScript, React, Node.js, Express.js, TypeScript, Next.js, NestJS, PostgreSQL and SQL.
-* Worked with Agile Methodology, Git/GitHub, SonarQube, AWS and Cursor AI.
-* Contributed to a live Jira Work Log Synchronization project to streamline employee timesheet management and workflow tracking.
-
-### Flutter Developer Intern | Altum Labs LLP
-
-📍 Ahmedabad (On-Site)
-📅 Jun 2025 – Jul 2025
-
-* Contributed to production-ready Android and iOS applications.
-* Resolved Play Store compliance warnings and deployment issues.
-* Configured Azure DevOps CI/CD pipelines for automated build and deployment workflows.
+* LinkedIn: https://linkedin.com/in/dev-patel-56b895257
+* GitHub: https://github.com/DevPatel1102
+* Email: [devpateljp11@gmail.com](mailto:devpateljp11@gmail.com)
 
 ---
 
 ## 🛠 Tech Stack
 
-### Languages
+### 💻 Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,kotlin,js,ts,html,css" />
+  <img src="https://skillicons.dev/icons?i=java,kotlin,js,ts,html,css,mysql" />
 </p>
 
-### Full Stack Development
+### 🌐 Full Stack Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,nextjs,mongodb,postgresql" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,postgres" />
 </p>
 
-### Mobile Development
+### 📱 Mobile Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=flutter,firebase" />
+  <img src="https://skillicons.dev/icons?i=flutter,firebase,androidstudio" />
 </p>
 
-### Cloud & DevOps
+### ☁️ Cloud & DevOps
 
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,git,github" />
+  <img src="https://skillicons.dev/icons?i=aws,git,github,docker" />
 </p>
 
-### Tools & Platforms
+### 🔧 Tools & Technologies
 
-* Android Studio
-* Azure DevOps
-* Postman
-* SonarQube
-* Cursor AI
-* Jetpack Compose
-* REST APIs
-* Socket.IO
+<p>
+  <img src="https://skillicons.dev/icons?i=postman" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens" />
+</p>
+
+
+---
+
+## 💼 Experience
+
+### Junior Software Engineer — Growexx AI Solutions
+
+📅 Jan 2026 – Jul 2026
+
+* Worked with MERN Stack, TypeScript, Next.js and NestJS
+* Contributed to Jira Work Log Synchronization project
+* Used AWS, GitHub, SonarQube and Agile Methodology
+
+### Flutter Developer Intern — Altum Labs LLP
+
+📅 Jun 2025 – Jul 2025
+
+* Developed production-ready Flutter applications
+* Configured Azure DevOps CI/CD pipelines
+* Published and maintained Android & iOS applications
 
 ---
 
@@ -96,92 +92,96 @@ Bachelor of Technology in Information & Communication Technology
 
 ### 💻 ProctoCode
 
-**Next.js • TypeScript • Express.js • MongoDB • Socket.IO**
+Full Stack Coding Assessment & Proctoring Platform
 
-* Built a full-stack coding assessment and proctoring platform.
-* Implemented real-time trust score tracking using Socket.IO.
-* Integrated Monaco-based coding sandbox for JavaScript and Python.
-* Added JWT Authentication, OTP Password Reset and role-based access control.
-* Developed candidate monitoring, session management and CSV reporting features.
+**Tech Stack**
+Next.js • TypeScript • Express.js • MongoDB • Socket.IO
 
-🔗 Repository: https://github.com/DevPatel1102/ProctoCode
+**Features**
+
+* Real-time trust score monitoring
+* Monaco code editor
+* JWT Authentication
+* OTP Password Reset
+* Admin & Candidate Roles
+
+🔗 [Github Repo](https://github.com/DevPatel1102/ProctoCode)
 
 ---
 
-### 📰 Headlinr - News App
+### 📰 Headlinr
 
-**Flutter • GetX • REST APIs**
+Flutter News App built using GetX.
 
-* Developed a modern news application with categorized content and real-time updates.
-* Reduced repeated UI code by implementing reusable components.
-* Built CI/CD pipelines using GitHub Actions.
-* Optimized performance with shimmer loading effects.
+**Features**
 
-🔗 Repository: https://github.com/DevPatel1102/Headlinr
+* Category-wise news
+* Real-time updates
+* GitHub Actions CI/CD
+* Reusable architecture
+
+🔗 [Github Repo](https://github.com/DevPatel1102/Headlinr)
 
 ---
 
 ### 🌤 Weather App
 
-**Kotlin • Jetpack Compose • REST APIs**
+Modern Weather Application built with Jetpack Compose.
 
-* Developed a weather forecasting application with real-time updates.
-* Reduced API response time significantly through optimization.
-* Implemented dynamic weather-specific backgrounds for enhanced user experience.
+**Features**
 
-🔗 Repository: https://github.com/DevPatel1102/Weather-App
+* Real-time weather data
+* Dynamic backgrounds
+* Optimized API performance
+
+🔗 [Github Repo](https://github.com/DevPatel1102/Weather-App)
 
 ---
 
 ## 🏆 Achievements
 
-### 🚀 NASA Space Apps Challenge Hackathon
+### 🚀 NASA Space Apps Challenge
 
-* Built a mobile application prototype within 48 hours as part of a 4-member team.
-* Collaborated on solving real-world challenges inspired by NASA datasets.
+Built a mobile application prototype within 48 hours as part of a 4-member team.
 
 ### 📜 Android App Development with Kotlin
 
-* Completed 40+ hours of Android development training.
-* Covered app architecture, UI development and API integration.
+Completed 40+ hours of Android Development training.
 
 ---
 
-## 📈 GitHub Statistics
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DevPatel1102&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevPatel1102&layout=compact&theme=tokyonight" width="36%" />
+<img src="https://github-readme-stats.vercel.app/api?username=DevPatel1102&show_icons=true&theme=tokyonight" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevPatel1102&layout=compact&theme=tokyonight" width="36%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevPatel1102&theme=tokyonight" width="60%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=DevPatel1102&theme=tokyonight" width="60%" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DevPatel1102&theme=tokyonight&column=7" width="100%" />
-</p>
-
----
-
-## 📫 Connect With Me
-
-<p align="left">
-<a href="mailto:devpateljp11@gmail.com">
-  <img src="https://img.shields.io/badge/Email-devpateljp11%40gmail.com-red?style=for-the-badge&logo=gmail" />
-</a>
-
-<a href="https://www.linkedin.com/in/dev-patel-56b895257">
-  <img src="https://img.shields.io/badge/LinkedIn-Dev%20Patel-blue?style=for-the-badge&logo=linkedin" />
-</a>
-
-<a href="https://github.com/DevPatel1102">
-  <img src="https://img.shields.io/badge/GitHub-DevPatel1102-black?style=for-the-badge&logo=github" />
-</a>
+<img src="https://github-profile-trophy.vercel.app/?username=DevPatel1102&theme=tokyonight&column=7" width="100%" />
 </p>
 
 ---
 
-⭐ From [DevPatel1102](https://github.com/DevPatel1102)
+## 👾 Pacman Contribution Graph
 
-*"Building impactful digital experiences through Mobile and Full Stack Development."*
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/DevPatel1102/DevPatel1102/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/DevPatel1102/DevPatel1102/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph"
+      src="https://raw.githubusercontent.com/DevPatel1102/DevPatel1102/output/pacman-contribution-graph.svg">
+  </picture>
+</p>
+
+---
+
+⭐ From Dev Patel
+
+*"Building impactful web and mobile experiences through Full Stack & Mobile Development."*
