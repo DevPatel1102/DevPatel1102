@@ -167,7 +167,7 @@ Completed 40+ hours of Android Development training.
 
 ---
 
-## 👾 Pacman Contribution Graph
+## 👾 Contribution Graph
 
 <p align="center">
   <picture>
